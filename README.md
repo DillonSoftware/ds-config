@@ -1,2 +1,3 @@
-# dsw-config
+# ds-config
+
 some shared configuration files
