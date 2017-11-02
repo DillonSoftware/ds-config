@@ -14,7 +14,7 @@
 	</module>
 
 	<!-- Checks that property files contain the same keys.         -->
-	<!--<module name="Translation"/>-->
+	<module name="Translation"/>
 
 	<module name="TreeWalker">
 
